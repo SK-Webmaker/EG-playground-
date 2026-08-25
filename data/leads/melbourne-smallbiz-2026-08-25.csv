@@ -1,0 +1,101 @@
+score,name,category,phone,address,suburb,postcode,website_status,website_note,signals,search_suburb
+95,La Serra Hairdressers,Hairdressing,+61394606319,297 Broadway,Reservoir,,clear,no web presence found at all,landline; street_premises; owner_named_business; specific_name; website_verified_clear,Coburg
+95,Jorge Viota Hairdressers,Hairdressing,+61393835533,455 Lygon Street,East Brunswick,3057,clear,no web presence found at all,landline; street_premises; owner_named_business; specific_name; website_verified_clear,Coburg
+95,Maurice Albert Salon,Barber / hair,+61393662933,6A East Esp,St Albans,3021,clear,Facebook 601 likes + Instagram + centre directory; 'Award Winning Hairdresser Since 1977',landline; street_premises; owner_named_business; specific_name; website_verified_clear,St Albans
+95,Ngoc Dzung Hair Salon,Barber / hair,+61393664688,42 Alfrieda,St Albans,,clear,Yelp/WhitePages/YellowPages only; Yelp updated Aug 2026,landline; street_premises; owner_named_business; specific_name; website_verified_clear,St Albans
+95,Zina's Unisex Salon,Hair & beauty salon,+61395468491,9 Sandown Rd,Springvale,3171,clear,Yelp/cybo/hairsalons.com.au listings only,landline; street_premises; owner_named_business; specific_name; website_verified_clear,Springvale
+95,Harris Family Butchers,Butcher,+61395702642,73 Mackie Rd,Bentleigh East,3165,clear,Facebook 'Harris Family Meats' only; 40 years in Mackie Rd,landline; street_premises; owner_named_business; specific_name; website_verified_clear,Oakleigh
+80,Kim Hair Salon,Barber / hair,+61393564018,25 Alfreda,St Albans,,unverified,not yet checked - verify before calling,landline; street_premises; owner_named_business; specific_name,St Albans
+80,Hong Thao Hairdressing,Barber / hair,+61393640359,Shop 7 Victoria Square,St Albans,3021,unverified,not yet checked - verify before calling,landline; street_premises; owner_named_business; specific_name,St Albans
+80,Mays Hair Salon,Hair & beauty salon,+61395742788,17 Balmoral Ave,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; owner_named_business; specific_name,Springvale
+80,Hollywood Hairdressing Salon,Hair & beauty salon,+61395465479,6a Balmoral Ave,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; owner_named_business; specific_name,Springvale
+80,Andy Phan Hair Salon,Hair & beauty salon,+61395464464,289 Springvale Rd,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; owner_named_business; specific_name,Springvale
+80,Mikarie Unisex Hair Salon,Hair & beauty salon,+61395741788,292c Springvale Rd,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; owner_named_business; specific_name,Springvale
+70,Munro Mechanic Repairs,Auto mechanic,+61393645177,21 Munro Ave,Sunshine,3020,clear,no web presence found at all,landline; street_premises; specific_name; website_verified_clear,Sunshine
+70,Deb's Dog Walking,Dog grooming,+61408283691,Frankston,Frankston,3199,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; owner_named_business; specific_name,Frankston
+70,Limnos Butchers,Butcher,+61395688522,34 Portman St,Oakleigh,3166,clear,Instagram + Oakleigh Traders directory + Facebook; no domain,landline; street_premises; specific_name; website_verified_clear,Oakleigh
+70,Gapa Lawn Mowing Company,Lawn & garden,+61435197779,Craigieburn,Craigieburn,,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; owner_named_business; specific_name,Craigieburn
+65,Marks mobile Mechanics,Auto mechanic,+61421647008,1/30 Little Boundary Road,Laverton North,3026,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Sunshine
+65,Electrician Werribee,Electrical,+61402684959,8 Tedesco Crt,Werribee,3030,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Werribee
+65,Peninsula Dog Spa,Dog grooming,+61403278055,19 Wattle Tree Lane,Frankston,3199,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Frankston
+65,L For Dog,Dog grooming,+61417310161,2/101 Fortescue Avenue,Seaford,3198,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Frankston
+65,A & E Handyman Services,Handyman,+61412557248,18 Beckett Rd,Donvale,3111,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Ringwood
+65,NEEDIT DONE!,Handyman,+61401067047,2A Kubba Road,Ringwood,3134,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Ringwood
+65,B K Mowing,Lawn & garden,+61412466146,12 Newhaven Rd,Craigieburn,3064,unverified,not yet checked - verify before calling,direct_mobile; street_premises; specific_name,Craigieburn
+60,Howard's Cleaning Services,Cleaning,+61397929418,Dandenong,Dandenong,3175,unverified,not yet checked - verify before calling,landline; serving_area_only; owner_named_business; specific_name,Dandenong
+60,Roxburgh Park Mowing,Lawn & garden,+61393087408,Roxburgh Park,Roxburgh Park,3064,unverified,not yet checked - verify before calling,landline; serving_area_only; owner_named_business; specific_name,Craigieburn
+55,Mimmo Hairdressers,Hairdressing,+61394788514,950 High,Reservoir,3073,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Coburg
+55,Diva Hairdressers,Hairdressing,+61394824487,75 High Street,Northcote,3070,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Coburg
+55,Chris Hairdresser,Hairdressing,+61393801441,541 Sydney Rd,Brunswick,3056,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Coburg
+55,Mazin Hairdresser,Hairdressing,+61393862531,356 Sydney Rd,Coburg,3058,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Coburg
+55,Jazmin Hair Design,Hairdressing,+61393704516,81 Fletcher Street,Essendon,3040,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Coburg
+55,Hairdressers Essendon,Hairdressing,+61390287511,1130 Mt Alexander Rd,Essendon,3040,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Coburg
+55,Rapid Cleaning Service,Cleaning,+61397923274,Factory 16/11 Bryants Road,Dandenong,3175,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Dandenong
+55,Salem Cleaning Service,Cleaning,+61395461980,9/53 Sinclair Rd,Dandenong,3175,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Dandenong
+55,A+ Cleaning Services,Cleaning,+61397081128,1 Rearden Close,Endeavour Hills,3802,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Dandenong
+55,Montana Painters,Painting,+61394783715,49 Lydia,Brunswick,,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Preston
+55,Clark Bros. Painters,Painting,+61394598880,Lot 37 Bartram Rse,Ivanhoe,3079,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Preston
+55,Mechanic St Albans,Auto mechanic,+61393569744,52 McKechnie St,St Albans,3021,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Sunshine
+55,prestige auto mechanic (vic),Auto mechanic,+61399390451,200 McIntyre Road,Sunshine North,3020,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Sunshine
+55,Vee Motors,Auto mechanic,+61393142050,405A Blackshaws Road,Altona North,3025,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Sunshine
+55,Repair Right Auto Mechanics,Auto mechanic,+61393141934,2A Somerleigh Road,Laverton North,3026,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Sunshine
+55,Euro Auto Mechanics,Auto mechanic,+61386270062,Unit 1/14 Pearl St,Brooklyn,3012,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Sunshine
+55,Close Shave Barber Shop,Barber / hair,+61393605233,801 Ballarat Rd,Deer Park,3023,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,St Albans
+55,Get Klipt,Barber / hair,+61393645994,51 Conrad Street,St Albans,3021,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,St Albans
+55,Antonioz Hair Designs,Barber / hair,+61393664922,Shop 11/11 Princess Arc,St Albans,3021,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,St Albans
+55,New Sai Gon,Barber / hair,+61393667454,44 Alfrieda,St Albans,,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,St Albans
+55,Walkway Hair Design,Barber / hair,+61393662242,47 Alfrieda,St Albans,,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,St Albans
+55,Stop N Style,Barber / hair,+61393671107,64 Alfrieda,St Albans,,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,St Albans
+55,Perfect Edge Panel Repairs,Panel beating,+61393143330,231 Sunshine Road,Tottenham,3012,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Footscray
+55,Beta Panels,Panel beating,+61393295913,8 Fogarty Street,North Melbourne,3051,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Footscray
+55,Top Class Panels,Panel beating,+61393101868,26-28 Market Road,Sunshine,3020,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Footscray
+55,Dibond Aluminium Composite Panels,Panel beating,+61393186077,51 Hampstead Rd,Maidstone,3012,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Footscray
+55,Werribee Auto Electricians,Electrical,+61397411613,43 Russell Street,Werribee,3030,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Werribee
+55,Pirrone Auto Electrical Accessories,Electrical,+61397413895,3 Bridge,Werribee,3030,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Werribee
+55,Durmanic J.c.m,Electrical,+61397418415,24 Acheron Crs,Werribee,3030,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Werribee
+55,Sweetwater Dog Grooming Salon,Dog grooming,+61397838085,14 Corio Ave,Frankston,3199,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Frankston
+55,K P Unisex Salon,Hair & beauty salon,+61395481080,Shop 36/268 Springvale Road,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Springvale
+55,Natural Hairdressing & Beauty Salon,Hair & beauty salon,+61395483340,Shop 5/303 Springvale Rd,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Springvale
+55,George Stella Unisex Salon,Hair & beauty salon,+61395463813,371b Springvale Rd,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Springvale
+55,Bernd The Handyman,Handyman,+61398035194,11 Baranbali Drv,Vermont,3133,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Ringwood
+55,Ozzies Gourmet Butchery,Butcher,+61398095208,55 Hamilton Place,Mount Waverley,3149,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Huntingdale Butchers,Butcher,+61395627855,278a Huntingdale Rd,Huntingdale,3166,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Portman Continental Butchery,Butcher,+61395697078,19 Portman St,Oakleigh,3166,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Lockie Butchers,Butcher,+61395715698,307 Waverley Rd,Malvern East,3145,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Bush Butcher,Butcher,+61395685034,446 Neerim Rd,Murrumbeena,3163,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Steve + Sons Butchers,Butcher,+61395795039,767 Centre Rd,Bentleigh East,3165,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Alfa Meats,Butcher,+61395697908,42 Portman St,Oakleigh,3166,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Oakleigh
+55,Friendly Mowing Service,Lawn & garden,+61393333376,2 Hesket Crt,Greenvale,,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Craigieburn
+55,Northern Lawn Care,Lawn & garden,+61390213793,8 Belsay Place,Craigieburn,3064,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Craigieburn
+55,Kunos Mowing,Lawn & garden,+61393052775,2 Moody Ct,Roxburgh Park,3064,unverified,not yet checked - verify before calling,landline; street_premises; specific_name,Craigieburn
+50,CRP EPS Panels and Cabins,Panel beating,+61478053735,258 McIntyre Rd,Sunshine,3020,unverified,not yet checked - verify before calling,direct_mobile; street_premises,Footscray
+50,Quicksmart Electrical Pty Ltd,Electrical,+61417588579,,Werribee,,unverified,not yet checked - verify before calling,direct_mobile; specific_name; registered_entity,Werribee
+50,Melbourne Institute Of Nails & Beauty,Hair & beauty salon,+61414555113,4/134 Springvale Rd,Springvale,3171,unverified,not yet checked - verify before calling,direct_mobile; street_premises,Springvale
+50,DVS home Improvements and Handyman Services,Handyman,+61422909619,81 Nangathan Way,Croydon North,3136,unverified,not yet checked - verify before calling,direct_mobile; street_premises,Ringwood
+50,Diamond Butchers (vic) Pty Ltd,Butcher,+61395683455,5 Eaton St,Oakleigh,3166,unverified,not yet checked - verify before calling,landline; street_premises; registered_entity,Oakleigh
+50,DD's Complete Lawn & Garden Care,Lawn & garden,+61419887564,2 Ottery Crt,Craigieburn,3064,unverified,not yet checked - verify before calling,direct_mobile; street_premises,Craigieburn
+45,Acacia Cleaning Service,Cleaning,+61416002507,Dandenong,Dandenong,3175,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Dandenong
+45,Miss Cleaning Servises,Cleaning,+61435113908,Dandenong,Dandenong,3175,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Dandenong
+45,Beater Strap Co.,Panel beating,+61490301056,Melbourne,Melbourne,3051,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Footscray
+45,NBL Electrics,Electrical,+61430014038,Werribee,Werribee,3030,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Werribee
+45,V J Electrics,Electrical,+61397429870,,Werribee,,clear,no web presence found at all,landline; specific_name; website_verified_clear,Werribee
+45,Cortal Electrical,Electrical,+61466665052,Serving Area,Werribee,3030,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Werribee
+45,Peninsula Dog Grooming,Dog grooming,+61417535731,Frankston,Frankston,3199,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Frankston
+45,cat and dog doors,Dog grooming,+61424653037,Frankston,Frankston,3199,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Frankston
+45,Top Gun Handyman Services,Handyman,+61458111980,Belmont Court,Donvale,3111,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only; specific_name,Ringwood
+40,New Trend Master Painters & Decorators,Painting,+61394801560,136 Raleigh,Thornbury,,unverified,not yet checked - verify before calling,landline; street_premises,Preston
+40,Joe Roda Variety Hair Stylist Unisex,Barber / hair,+61393674532,10c East Esplanade,St Albans,3021,unverified,not yet checked - verify before calling,landline; street_premises,St Albans
+40,Mega Electrician Werribee,Electrical,+61493137290,,Werribee,,unverified,not yet checked - verify before calling,direct_mobile; specific_name,Werribee
+40,A.C.F. Electrical Contractors,Electrical,+61397427662,12 Thames Blv,Werribee,3030,unverified,not yet checked - verify before calling,landline; street_premises,Werribee
+40,B K K Hairdressing Salon,Hair & beauty salon,+61395460377,258 Springvale Rd,Springvale,3171,unverified,not yet checked - verify before calling,landline; street_premises,Springvale
+40,Perfect Pete's Handyman Services,Handyman,+61398418741,Unit 7/19-21 Mitcham Rd,Donvale,3111,unverified,not yet checked - verify before calling,landline; street_premises,Ringwood
+40,Artificial Lawn Specialist,Lawn & garden,+61423352907,,,,unverified,not yet checked - verify before calling,direct_mobile; specific_name,Craigieburn
+35,Duct Cleaning Services Australia,Cleaning,+61397695488,Dandenong,Dandenong,3175,unverified,not yet checked - verify before calling,landline; serving_area_only; specific_name,Dandenong
+35,Mobile Car Care - Sunshine,Auto mechanic,+61393620055,Devonshire Road,Sunshine,3020,unverified,not yet checked - verify before calling,landline; serving_area_only; specific_name,Sunshine
+35,The Salon Of Beauty,Hair & beauty salon,+61395484280,Waverley Gardens Shopng Cntr,Mulgrave,3170,unverified,not yet checked - verify before calling,landline; serving_area_only; specific_name,Springvale
+35,Commercial Butchers,Butcher,+61395687515,Chadstone Shopng Cntr,Chadstone,3148,unverified,not yet checked - verify before calling,landline; serving_area_only; specific_name,Oakleigh
+35,Chrystal Poultry,Butcher,+61395683203,Oakleigh Central Shopng Cntr,Oakleigh,3166,unverified,not yet checked - verify before calling,landline; serving_area_only; specific_name,Oakleigh
+30,kangroo jack's cleaning services,Cleaning,+61432365711,Dandenong,Dandenong,3175,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only,Dandenong
+30,Electrical Instrumentation Services,Electrical,+61397426174,,Werribee,,unverified,not yet checked - verify before calling,landline; specific_name,Werribee
+30,W.A.G.S Mobile Grooming,Dog grooming,+61421773021,Frankston,Frankston,3199,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only,Frankston
+30,The Dog Carer - Mobile Dog Grooming,Dog grooming,+61409418747,Frankston,Frankston,3199,unverified,not yet checked - verify before calling,direct_mobile; serving_area_only,Frankston

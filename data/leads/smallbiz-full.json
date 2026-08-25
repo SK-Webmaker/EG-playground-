@@ -1,0 +1,2683 @@
+{
+ "qualified": [
+  {
+   "name": "La Serra Hairdressers",
+   "phone_raw": "03 9460 6319",
+   "phone": "+61394606319",
+   "address": "297 Broadway",
+   "suburb": "Reservoir",
+   "postcode": null,
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "clear",
+   "website_note": "no web presence found at all",
+   "score": 95,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Jorge Viota Hairdressers",
+   "phone_raw": "03 9383 5533",
+   "phone": "+61393835533",
+   "address": "455 Lygon Street",
+   "suburb": "East Brunswick",
+   "postcode": "3057",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "clear",
+   "website_note": "no web presence found at all",
+   "score": 95,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Maurice Albert Salon",
+   "phone_raw": "03 9366 2933",
+   "phone": "+61393662933",
+   "address": "6A East Esp",
+   "suburb": "St Albans",
+   "postcode": "3021",
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "clear",
+   "website_note": "Facebook 601 likes + Instagram + centre directory; 'Award Winning Hairdresser Since 1977'",
+   "score": 95,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Ngoc Dzung Hair Salon",
+   "phone_raw": "03 9366 4688",
+   "phone": "+61393664688",
+   "address": "42 Alfrieda",
+   "suburb": "St Albans",
+   "postcode": null,
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "clear",
+   "website_note": "Yelp/WhitePages/YellowPages only; Yelp updated Aug 2026",
+   "score": 95,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Zina's Unisex Salon",
+   "phone_raw": "03 9546 8491",
+   "phone": "+61395468491",
+   "address": "9 Sandown Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "clear",
+   "website_note": "Yelp/cybo/hairsalons.com.au listings only",
+   "score": 95,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Harris Family Butchers",
+   "phone_raw": "03 9570 2642",
+   "phone": "+61395702642",
+   "address": "73 Mackie Rd",
+   "suburb": "Bentleigh East",
+   "postcode": "3165",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "clear",
+   "website_note": "Facebook 'Harris Family Meats' only; 40 years in Mackie Rd",
+   "score": 95,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Kim Hair Salon",
+   "phone_raw": "03 9356 4018",
+   "phone": "+61393564018",
+   "address": "25 Alfreda",
+   "suburb": "St Albans",
+   "postcode": null,
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 80,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Hong Thao Hairdressing",
+   "phone_raw": "03 9364 0359",
+   "phone": "+61393640359",
+   "address": "Shop 7 Victoria Square",
+   "suburb": "St Albans",
+   "postcode": "3021",
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 80,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mays Hair Salon",
+   "phone_raw": "03 9574 2788",
+   "phone": "+61395742788",
+   "address": "17 Balmoral Ave",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 80,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Hollywood Hairdressing Salon",
+   "phone_raw": "03 9546 5479",
+   "phone": "+61395465479",
+   "address": "6a Balmoral Ave",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 80,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Andy Phan Hair Salon",
+   "phone_raw": "03 9546 4464",
+   "phone": "+61395464464",
+   "address": "289 Springvale Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 80,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mikarie Unisex Hair Salon",
+   "phone_raw": "03 9574 1788",
+   "phone": "+61395741788",
+   "address": "292c Springvale Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 80,
+   "signals": [
+    "landline",
+    "street_premises",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Munro Mechanic Repairs",
+   "phone_raw": "03 9364 5177",
+   "phone": "+61393645177",
+   "address": "21 Munro Ave",
+   "suburb": "Sunshine",
+   "postcode": "3020",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "clear",
+   "website_note": "no web presence found at all",
+   "score": 70,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Deb's Dog Walking",
+   "phone_raw": "0408 283 691",
+   "phone": "+61408283691",
+   "address": "Frankston",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 70,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Limnos Butchers",
+   "phone_raw": "03 9568 8522",
+   "phone": "+61395688522",
+   "address": "34 Portman St",
+   "suburb": "Oakleigh",
+   "postcode": "3166",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "clear",
+   "website_note": "Instagram + Oakleigh Traders directory + Facebook; no domain",
+   "score": 70,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Gapa Lawn Mowing Company",
+   "phone_raw": "0435 197 779",
+   "phone": "+61435197779",
+   "address": "Craigieburn",
+   "suburb": "Craigieburn",
+   "postcode": null,
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 70,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Marks mobile Mechanics",
+   "phone_raw": "0421 647 008",
+   "phone": "+61421647008",
+   "address": "1/30 Little Boundary Road",
+   "suburb": "Laverton North",
+   "postcode": "3026",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Electrician Werribee",
+   "phone_raw": "0402 684 959",
+   "phone": "+61402684959",
+   "address": "8 Tedesco Crt",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Peninsula Dog Spa",
+   "phone_raw": "0403 278 055",
+   "phone": "+61403278055",
+   "address": "19 Wattle Tree Lane",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "L For Dog",
+   "phone_raw": "0417 310 161",
+   "phone": "+61417310161",
+   "address": "2/101 Fortescue Avenue",
+   "suburb": "Seaford",
+   "postcode": "3198",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "A & E Handyman Services",
+   "phone_raw": "0412 557 248",
+   "phone": "+61412557248",
+   "address": "18 Beckett Rd",
+   "suburb": "Donvale",
+   "postcode": "3111",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "NEEDIT DONE!",
+   "phone_raw": "0401 067 047",
+   "phone": "+61401067047",
+   "address": "2A Kubba Road",
+   "suburb": "Ringwood",
+   "postcode": "3134",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "B K Mowing",
+   "phone_raw": "0412 466 146",
+   "phone": "+61412466146",
+   "address": "12 Newhaven Rd",
+   "suburb": "Craigieburn",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 65,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Howard's Cleaning Services",
+   "phone_raw": "03 9792 9418",
+   "phone": "+61397929418",
+   "address": "Dandenong",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 60,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Roxburgh Park Mowing",
+   "phone_raw": "03 9308 7408",
+   "phone": "+61393087408",
+   "address": "Roxburgh Park",
+   "suburb": "Roxburgh Park",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 60,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mimmo Hairdressers",
+   "phone_raw": "03 9478 8514",
+   "phone": "+61394788514",
+   "address": "950 High",
+   "suburb": "Reservoir",
+   "postcode": "3073",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Diva Hairdressers",
+   "phone_raw": "03 9482 4487",
+   "phone": "+61394824487",
+   "address": "75 High Street",
+   "suburb": "Northcote",
+   "postcode": "3070",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Chris Hairdresser",
+   "phone_raw": "03 9380 1441",
+   "phone": "+61393801441",
+   "address": "541 Sydney Rd",
+   "suburb": "Brunswick",
+   "postcode": "3056",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mazin Hairdresser",
+   "phone_raw": "03 9386 2531",
+   "phone": "+61393862531",
+   "address": "356 Sydney Rd",
+   "suburb": "Coburg",
+   "postcode": "3058",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Jazmin Hair Design",
+   "phone_raw": "03 9370 4516",
+   "phone": "+61393704516",
+   "address": "81 Fletcher Street",
+   "suburb": "Essendon",
+   "postcode": "3040",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Hairdressers Essendon",
+   "phone_raw": "03 9028 7511",
+   "phone": "+61390287511",
+   "address": "1130 Mt Alexander Rd",
+   "suburb": "Essendon",
+   "postcode": "3040",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Rapid Cleaning Service",
+   "phone_raw": "03 9792 3274",
+   "phone": "+61397923274",
+   "address": "Factory 16/11 Bryants Road",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Salem Cleaning Service",
+   "phone_raw": "03 9546 1980",
+   "phone": "+61395461980",
+   "address": "9/53 Sinclair Rd",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "A+ Cleaning Services",
+   "phone_raw": "03 9708 1128",
+   "phone": "+61397081128",
+   "address": "1 Rearden Close",
+   "suburb": "Endeavour Hills",
+   "postcode": "3802",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Montana Painters",
+   "phone_raw": "03 9478 3715",
+   "phone": "+61394783715",
+   "address": "49 Lydia",
+   "suburb": "Brunswick",
+   "postcode": null,
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Clark Bros. Painters",
+   "phone_raw": "03 9459 8880",
+   "phone": "+61394598880",
+   "address": "Lot 37 Bartram Rse",
+   "suburb": "Ivanhoe",
+   "postcode": "3079",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mechanic St Albans",
+   "phone_raw": "03 9356 9744",
+   "phone": "+61393569744",
+   "address": "52 McKechnie St",
+   "suburb": "St Albans",
+   "postcode": "3021",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "prestige auto mechanic (vic)",
+   "phone_raw": "03 9939 0451",
+   "phone": "+61399390451",
+   "address": "200 McIntyre Road",
+   "suburb": "Sunshine North",
+   "postcode": "3020",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Vee Motors",
+   "phone_raw": "03 9314 2050",
+   "phone": "+61393142050",
+   "address": "405A Blackshaws Road",
+   "suburb": "Altona North",
+   "postcode": "3025",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Repair Right Auto Mechanics",
+   "phone_raw": "03 9314 1934",
+   "phone": "+61393141934",
+   "address": "2A Somerleigh Road",
+   "suburb": "Laverton North",
+   "postcode": "3026",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Euro Auto Mechanics",
+   "phone_raw": "03 8627 0062",
+   "phone": "+61386270062",
+   "address": "Unit 1/14 Pearl St",
+   "suburb": "Brooklyn",
+   "postcode": "3012",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Close Shave Barber Shop",
+   "phone_raw": "03 9360 5233",
+   "phone": "+61393605233",
+   "address": "801 Ballarat Rd",
+   "suburb": "Deer Park",
+   "postcode": "3023",
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Get Klipt",
+   "phone_raw": "03 9364 5994",
+   "phone": "+61393645994",
+   "address": "51 Conrad Street",
+   "suburb": "St Albans",
+   "postcode": "3021",
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Antonioz Hair Designs",
+   "phone_raw": "03 9366 4922",
+   "phone": "+61393664922",
+   "address": "Shop 11/11 Princess Arc",
+   "suburb": "St Albans",
+   "postcode": "3021",
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "New Sai Gon",
+   "phone_raw": "03 9366 7454",
+   "phone": "+61393667454",
+   "address": "44 Alfrieda",
+   "suburb": "St Albans",
+   "postcode": null,
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Walkway Hair Design",
+   "phone_raw": "03 9366 2242",
+   "phone": "+61393662242",
+   "address": "47 Alfrieda",
+   "suburb": "St Albans",
+   "postcode": null,
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Stop N Style",
+   "phone_raw": "03 9367 1107",
+   "phone": "+61393671107",
+   "address": "64 Alfrieda",
+   "suburb": "St Albans",
+   "postcode": null,
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Perfect Edge Panel Repairs",
+   "phone_raw": "03 9314 3330",
+   "phone": "+61393143330",
+   "address": "231 Sunshine Road",
+   "suburb": "Tottenham",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Beta Panels",
+   "phone_raw": "03 9329 5913",
+   "phone": "+61393295913",
+   "address": "8 Fogarty Street",
+   "suburb": "North Melbourne",
+   "postcode": "3051",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Top Class Panels",
+   "phone_raw": "03 9310 1868",
+   "phone": "+61393101868",
+   "address": "26-28 Market Road",
+   "suburb": "Sunshine",
+   "postcode": "3020",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Dibond Aluminium Composite Panels",
+   "phone_raw": "03 9318 6077",
+   "phone": "+61393186077",
+   "address": "51 Hampstead Rd",
+   "suburb": "Maidstone",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Werribee Auto Electricians",
+   "phone_raw": "03 9741 1613",
+   "phone": "+61397411613",
+   "address": "43 Russell Street",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Pirrone Auto Electrical Accessories",
+   "phone_raw": "03 9741 3895",
+   "phone": "+61397413895",
+   "address": "3 Bridge",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Durmanic J.c.m",
+   "phone_raw": "03 9741 8415",
+   "phone": "+61397418415",
+   "address": "24 Acheron Crs",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Sweetwater Dog Grooming Salon",
+   "phone_raw": "03 9783 8085",
+   "phone": "+61397838085",
+   "address": "14 Corio Ave",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "K P Unisex Salon",
+   "phone_raw": "03 9548 1080",
+   "phone": "+61395481080",
+   "address": "Shop 36/268 Springvale Road",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Natural Hairdressing & Beauty Salon",
+   "phone_raw": "03 9548 3340",
+   "phone": "+61395483340",
+   "address": "Shop 5/303 Springvale Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "George Stella Unisex Salon",
+   "phone_raw": "03 9546 3813",
+   "phone": "+61395463813",
+   "address": "371b Springvale Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Bernd The Handyman",
+   "phone_raw": "03 9803 5194",
+   "phone": "+61398035194",
+   "address": "11 Baranbali Drv",
+   "suburb": "Vermont",
+   "postcode": "3133",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Ozzies Gourmet Butchery",
+   "phone_raw": "03 9809 5208",
+   "phone": "+61398095208",
+   "address": "55 Hamilton Place",
+   "suburb": "Mount Waverley",
+   "postcode": "3149",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Huntingdale Butchers",
+   "phone_raw": "03 9562 7855",
+   "phone": "+61395627855",
+   "address": "278a Huntingdale Rd",
+   "suburb": "Huntingdale",
+   "postcode": "3166",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Portman Continental Butchery",
+   "phone_raw": "03 9569 7078",
+   "phone": "+61395697078",
+   "address": "19 Portman St",
+   "suburb": "Oakleigh",
+   "postcode": "3166",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Lockie Butchers",
+   "phone_raw": "03 9571 5698",
+   "phone": "+61395715698",
+   "address": "307 Waverley Rd",
+   "suburb": "Malvern East",
+   "postcode": "3145",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Bush Butcher",
+   "phone_raw": "03 9568 5034",
+   "phone": "+61395685034",
+   "address": "446 Neerim Rd",
+   "suburb": "Murrumbeena",
+   "postcode": "3163",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Steve + Sons Butchers",
+   "phone_raw": "03 9579 5039",
+   "phone": "+61395795039",
+   "address": "767 Centre Rd",
+   "suburb": "Bentleigh East",
+   "postcode": "3165",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Alfa Meats",
+   "phone_raw": "03 9569 7908",
+   "phone": "+61395697908",
+   "address": "42 Portman St",
+   "suburb": "Oakleigh",
+   "postcode": "3166",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Friendly Mowing Service",
+   "phone_raw": "03 9333 3376",
+   "phone": "+61393333376",
+   "address": "2 Hesket Crt",
+   "suburb": "Greenvale",
+   "postcode": null,
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Northern Lawn Care",
+   "phone_raw": "03 9021 3793",
+   "phone": "+61390213793",
+   "address": "8 Belsay Place",
+   "suburb": "Craigieburn",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Kunos Mowing",
+   "phone_raw": "03 9305 2775",
+   "phone": "+61393052775",
+   "address": "2 Moody Ct",
+   "suburb": "Roxburgh Park",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "CRP EPS Panels and Cabins",
+   "phone_raw": "0478 053 735",
+   "phone": "+61478053735",
+   "address": "258 McIntyre Rd",
+   "suburb": "Sunshine",
+   "postcode": "3020",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Quicksmart Electrical Pty Ltd",
+   "phone_raw": "0417 588 579",
+   "phone": "+61417588579",
+   "address": null,
+   "suburb": "Werribee",
+   "postcode": null,
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "specific_name",
+    "registered_entity"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Melbourne Institute Of Nails & Beauty",
+   "phone_raw": "0414 555 113",
+   "phone": "+61414555113",
+   "address": "4/134 Springvale Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "DVS home Improvements and Handyman Services",
+   "phone_raw": "0422 909 619",
+   "phone": "+61422909619",
+   "address": "81 Nangathan Way",
+   "suburb": "Croydon North",
+   "postcode": "3136",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Diamond Butchers (vic) Pty Ltd",
+   "phone_raw": "03 9568 3455",
+   "phone": "+61395683455",
+   "address": "5 Eaton St",
+   "suburb": "Oakleigh",
+   "postcode": "3166",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "landline",
+    "street_premises",
+    "registered_entity"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "DD's Complete Lawn & Garden Care",
+   "phone_raw": "0419 887 564",
+   "phone": "+61419887564",
+   "address": "2 Ottery Crt",
+   "suburb": "Craigieburn",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Acacia Cleaning Service",
+   "phone_raw": "0416 002 507",
+   "phone": "+61416002507",
+   "address": "Dandenong",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Miss Cleaning Servises",
+   "phone_raw": "0435 113 908",
+   "phone": "+61435113908",
+   "address": "Dandenong",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Beater Strap Co.",
+   "phone_raw": "0490 301 056",
+   "phone": "+61490301056",
+   "address": "Melbourne",
+   "suburb": "Melbourne",
+   "postcode": "3051",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "NBL Electrics",
+   "phone_raw": "0430 014 038",
+   "phone": "+61430014038",
+   "address": "Werribee",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "V J Electrics",
+   "phone_raw": "03 9742 9870",
+   "phone": "+61397429870",
+   "address": null,
+   "suburb": "Werribee",
+   "postcode": null,
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "clear",
+   "website_note": "no web presence found at all",
+   "score": 45,
+   "signals": [
+    "landline",
+    "specific_name",
+    "website_verified_clear"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Cortal Electrical",
+   "phone_raw": "0466 665 052",
+   "phone": "+61466665052",
+   "address": "Serving Area",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Peninsula Dog Grooming",
+   "phone_raw": "0417 535 731",
+   "phone": "+61417535731",
+   "address": "Frankston",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "cat and dog doors",
+   "phone_raw": "0424 653 037",
+   "phone": "+61424653037",
+   "address": "Frankston",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Top Gun Handyman Services",
+   "phone_raw": "0458 111 980",
+   "phone": "+61458111980",
+   "address": "Belmont Court",
+   "suburb": "Donvale",
+   "postcode": "3111",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "New Trend Master Painters & Decorators",
+   "phone_raw": "03 9480 1560",
+   "phone": "+61394801560",
+   "address": "136 Raleigh",
+   "suburb": "Thornbury",
+   "postcode": null,
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Joe Roda Variety Hair Stylist Unisex",
+   "phone_raw": "03 9367 4532",
+   "phone": "+61393674532",
+   "address": "10c East Esplanade",
+   "suburb": "St Albans",
+   "postcode": "3021",
+   "category": "Barber / hair",
+   "search_suburb": "St Albans",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mega Electrician Werribee",
+   "phone_raw": "0493 137 290",
+   "phone": "+61493137290",
+   "address": null,
+   "suburb": "Werribee",
+   "postcode": null,
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "direct_mobile",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "A.C.F. Electrical Contractors",
+   "phone_raw": "03 9742 7662",
+   "phone": "+61397427662",
+   "address": "12 Thames Blv",
+   "suburb": "Werribee",
+   "postcode": "3030",
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "B K K Hairdressing Salon",
+   "phone_raw": "03 9546 0377",
+   "phone": "+61395460377",
+   "address": "258 Springvale Rd",
+   "suburb": "Springvale",
+   "postcode": "3171",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Perfect Pete's Handyman Services",
+   "phone_raw": "03 9841 8741",
+   "phone": "+61398418741",
+   "address": "Unit 7/19-21 Mitcham Rd",
+   "suburb": "Donvale",
+   "postcode": "3111",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Artificial Lawn Specialist",
+   "phone_raw": "0423 352 907",
+   "phone": "+61423352907",
+   "address": null,
+   "suburb": null,
+   "postcode": null,
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "direct_mobile",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Duct Cleaning Services Australia",
+   "phone_raw": "03 9769 5488",
+   "phone": "+61397695488",
+   "address": "Dandenong",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 35,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Mobile Car Care - Sunshine",
+   "phone_raw": "03 9362 0055",
+   "phone": "+61393620055",
+   "address": "Devonshire Road",
+   "suburb": "Sunshine",
+   "postcode": "3020",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 35,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "The Salon Of Beauty",
+   "phone_raw": "03 9548 4280",
+   "phone": "+61395484280",
+   "address": "Waverley Gardens Shopng Cntr",
+   "suburb": "Mulgrave",
+   "postcode": "3170",
+   "category": "Hair & beauty salon",
+   "search_suburb": "Springvale",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 35,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Commercial Butchers",
+   "phone_raw": "03 9568 7515",
+   "phone": "+61395687515",
+   "address": "Chadstone Shopng Cntr",
+   "suburb": "Chadstone",
+   "postcode": "3148",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 35,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Chrystal Poultry",
+   "phone_raw": "03 9568 3203",
+   "phone": "+61395683203",
+   "address": "Oakleigh Central Shopng Cntr",
+   "suburb": "Oakleigh",
+   "postcode": "3166",
+   "category": "Butcher",
+   "search_suburb": "Oakleigh",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 35,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "kangroo jack's cleaning services",
+   "phone_raw": "0432 365 711",
+   "phone": "+61432365711",
+   "address": "Dandenong",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 30,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "Electrical Instrumentation Services",
+   "phone_raw": "03 9742 6174",
+   "phone": "+61397426174",
+   "address": null,
+   "suburb": "Werribee",
+   "postcode": null,
+   "category": "Electrical",
+   "search_suburb": "Werribee",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 30,
+   "signals": [
+    "landline",
+    "specific_name"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "W.A.G.S Mobile Grooming",
+   "phone_raw": "0421 773 021",
+   "phone": "+61421773021",
+   "address": "Frankston",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 30,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only"
+   ],
+   "reasons": [],
+   "qualified": true
+  },
+  {
+   "name": "The Dog Carer - Mobile Dog Grooming",
+   "phone_raw": "0409 418 747",
+   "phone": "+61409418747",
+   "address": "Frankston",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 30,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only"
+   ],
+   "reasons": [],
+   "qualified": true
+  }
+ ],
+ "rejected": [
+  {
+   "name": "Websites For Hairdressers",
+   "phone_raw": "0418 396 130",
+   "phone": "+61418396130",
+   "address": "PO BOX 244 Ascot Vale",
+   "suburb": "Melbourne",
+   "postcode": "3000",
+   "category": "Hairdressing",
+   "search_suburb": "Coburg",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 70,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [
+    "po_box_only"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Cleaning Services Melbourne",
+   "phone_raw": "03 9794 9646",
+   "phone": "+61397949646",
+   "address": "1/30 Potter Street",
+   "suburb": "Dandenong",
+   "postcode": "3175",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "generic_seo_name"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Dimark Cleaning Services",
+   "phone_raw": "03 9706 2587",
+   "phone": "+61397062587",
+   "address": "1 Eden Crt",
+   "suburb": "Noble Park",
+   "postcode": "3174",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "shared_phone_x2"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Crystal Cleaning Services",
+   "phone_raw": "0411 752 279",
+   "phone": "+61411752279",
+   "address": "PO Box 576",
+   "suburb": "Endeavour Hills",
+   "postcode": "3802",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [
+    "po_box_only"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "G.N.J. Cleaning Services",
+   "phone_raw": "03 9706 2587",
+   "phone": "+61397062587",
+   "address": "4 Derry Cl",
+   "suburb": "Endeavour Hills",
+   "postcode": "3802",
+   "category": "Cleaning",
+   "search_suburb": "Dandenong",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "shared_phone_x2",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Home Painters Melbourne",
+   "phone_raw": "0401 635 451",
+   "phone": "+61401635451",
+   "address": "22 West Street",
+   "suburb": "Preston West",
+   "postcode": "3072",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "street_premises"
+   ],
+   "reasons": [
+    "generic_seo_name"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Rose Master Painters",
+   "phone_raw": "03 9440 7700",
+   "phone": "+61394407700",
+   "address": "PO Box 66, The Mall",
+   "suburb": "Heidelberg West",
+   "postcode": "3081",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 60,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [
+    "po_box_only"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Generation Painters",
+   "phone_raw": null,
+   "phone": null,
+   "address": "33 Ronald",
+   "suburb": "Coburg",
+   "postcode": null,
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "no_phone"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Braybrook & Sons Painters & Decorators",
+   "phone_raw": null,
+   "phone": null,
+   "address": "18 Plow",
+   "suburb": "Thornbury",
+   "postcode": null,
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "no_phone"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Canon Printers Customer Service Melbourne",
+   "phone_raw": "1800 007 897",
+   "phone": "+611800007897",
+   "address": "18 Parkes Road",
+   "suburb": "Melbourne",
+   "postcode": "3004",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "offshore_spam",
+    "generic_seo_name",
+    "shared_phone_x5"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Canon Printers Customer Care Melbourne",
+   "phone_raw": "1800 007 897",
+   "phone": "+611800007897",
+   "address": "18 Parkes Road",
+   "suburb": "Melbourne",
+   "postcode": "3004",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "offshore_spam",
+    "generic_seo_name",
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Canon Printers Customer Support Melbourne",
+   "phone_raw": "1800 007 897",
+   "phone": "+611800007897",
+   "address": "18 Parkes Road",
+   "suburb": "Melbourne",
+   "postcode": "3004",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "offshore_spam",
+    "generic_seo_name",
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Canon Printers Setup Problem Melbourne",
+   "phone_raw": "1800 007 897",
+   "phone": "+611800007897",
+   "address": "18 Parkes Road",
+   "suburb": "Melbourne",
+   "postcode": "3004",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "offshore_spam",
+    "generic_seo_name",
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Canon Printers Customer Care Number Melbourne",
+   "phone_raw": "1800 007 897",
+   "phone": "+611800007897",
+   "address": "18 Parkes Road",
+   "suburb": "Melbourne",
+   "postcode": "3004",
+   "category": "Painting",
+   "search_suburb": "Preston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "offshore_spam",
+    "generic_seo_name",
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Diesel Mechanic Melbourne",
+   "phone_raw": "0450 648 217",
+   "phone": "+61450648217",
+   "address": "46 Williamson Road",
+   "suburb": "Maribyrnong",
+   "postcode": "3032",
+   "category": "Auto mechanic",
+   "search_suburb": "Sunshine",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 50,
+   "signals": [
+    "direct_mobile",
+    "street_premises"
+   ],
+   "reasons": [
+    "generic_seo_name"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Professional Panel Beaters Altona North",
+   "phone_raw": "03 9315 3398",
+   "phone": "+61393153398",
+   "address": "570 Geelong Rd",
+   "suburb": "Brooklyn",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "generic_seo_name",
+    "shared_phone_x5"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Looking For Best Smash Repair Shop?",
+   "phone_raw": "03 9315 3398",
+   "phone": "+61393153398",
+   "address": "570 Geelong Rd",
+   "suburb": "Brooklyn",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Brooklyn Accident Repair Centre",
+   "phone_raw": "03 9315 3398",
+   "phone": "+61393153398",
+   "address": "570 Geelong Rd",
+   "suburb": "Brooklyn",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Panel Beater Kensington",
+   "phone_raw": "03 9315 3398",
+   "phone": "+61393153398",
+   "address": "570 Geelong Rd",
+   "suburb": "Brooklyn",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Panel Beater Sunshine North",
+   "phone_raw": "03 9315 3398",
+   "phone": "+61393153398",
+   "address": "570 Geelong Rd",
+   "suburb": "Brooklyn",
+   "postcode": "3012",
+   "category": "Panel beating",
+   "search_suburb": "Footscray",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "shared_phone_x5",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Aussie Pooch Mobile Dog Wash Frankston",
+   "phone_raw": "0466 112 198",
+   "phone": "+61466112198",
+   "address": "Frankston",
+   "suburb": "Frankston",
+   "postcode": "3199",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 30,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only"
+   ],
+   "reasons": [
+    "franchise"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Top Dog Pest Solutions",
+   "phone_raw": "03 9775 7199",
+   "phone": "+61397757199",
+   "address": "4/385 McClelland Drive",
+   "suburb": "Langwarrin",
+   "postcode": "3910",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "landline",
+    "street_premises",
+    "specific_name"
+   ],
+   "reasons": [
+    "outside_melbourne"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Groom Room @ Mt Eliza Pets",
+   "phone_raw": "03 9787 3811",
+   "phone": "+61397873811",
+   "address": "Shop 11/87 Mt Eliza Way",
+   "suburb": "Mt Eliza",
+   "postcode": "3930",
+   "category": "Dog grooming",
+   "search_suburb": "Frankston",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "street_premises"
+   ],
+   "reasons": [
+    "outside_melbourne"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Handyman J",
+   "phone_raw": "0431 893 300",
+   "phone": "+61431893300",
+   "address": "P.O. Box 6002",
+   "suburb": "Croydon",
+   "postcode": "3136",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 45,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "specific_name"
+   ],
+   "reasons": [
+    "po_box_only"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Murphy's Mitre 10",
+   "phone_raw": "03 9870 2444",
+   "phone": "+61398702444",
+   "address": "Bond St",
+   "suburb": "Ringwood",
+   "postcode": "3134",
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 60,
+   "signals": [
+    "landline",
+    "serving_area_only",
+    "owner_named_business",
+    "specific_name"
+   ],
+   "reasons": [
+    "franchise"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Jim's Handyman Wantirna South",
+   "phone_raw": "13 15 46",
+   "phone": "+61131546",
+   "address": null,
+   "suburb": null,
+   "postcode": null,
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "owner_named_business"
+   ],
+   "reasons": [
+    "franchise",
+    "shared_phone_x2"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Jim's Handyman Croydon North",
+   "phone_raw": "13 15 46",
+   "phone": "+61131546",
+   "address": null,
+   "suburb": null,
+   "postcode": null,
+   "category": "Handyman",
+   "search_suburb": "Ringwood",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 40,
+   "signals": [
+    "landline",
+    "owner_named_business"
+   ],
+   "reasons": [
+    "franchise",
+    "shared_phone_x2",
+    "duplicate"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Andrew Roy Lawn Mowing Company",
+   "phone_raw": "0418 399 793",
+   "phone": "+61418399793",
+   "address": "20 Brayford Nook",
+   "suburb": "Craigieburn",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "site",
+   "website_note": "andrewroylawnmowing.com.au",
+   "score": 75,
+   "signals": [
+    "direct_mobile",
+    "street_premises",
+    "owner_named_business"
+   ],
+   "reasons": [
+    "HAS_WEBSITE"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Victa lawn and garden care",
+   "phone_raw": null,
+   "phone": null,
+   "address": "Hothlyn Dve",
+   "suburb": "Craigieburn",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 5,
+   "signals": [
+    "serving_area_only"
+   ],
+   "reasons": [
+    "franchise",
+    "no_phone"
+   ],
+   "qualified": false
+  },
+  {
+   "name": "Professional Lawn Mowing Services",
+   "phone_raw": "0402 344 652",
+   "phone": "+61402344652",
+   "address": "Roxburgh Park",
+   "suburb": "Roxburgh Park",
+   "postcode": "3064",
+   "category": "Lawn & garden",
+   "search_suburb": "Craigieburn",
+   "website_status": "unverified",
+   "website_note": "not yet checked - verify before calling",
+   "score": 55,
+   "signals": [
+    "direct_mobile",
+    "serving_area_only",
+    "owner_named_business"
+   ],
+   "reasons": [
+    "generic_seo_name"
+   ],
+   "qualified": false
+  }
+ ]
+}
