@@ -1,0 +1,100 @@
+{
+  "run_date": "2026-08-25",
+  "method": "Hotfrog discovery -> shared-phone/generic-name filtering -> web-search website verification -> ABN Lookup owner + liveness",
+  "leads": [
+    {
+      "business_name": "Precision Restumping & Underpinning",
+      "niche": "underpinning", "niche_label": "Underpinning & restumping", "ticket_value": 35000,
+      "address": "12 Caprice Court, Keilor Downs", "suburb": "Keilor Downs", "postcode": "3038",
+      "phone_raw": "0487 467 633",
+      "owner_name": "James Lamprou", "owner_confidence": "confirmed",
+      "owner_source": "ABN Lookup 88981972584 (entity name LAMPROU, JAMES - Individual/Sole Trader)",
+      "abn": "88981972584", "entity_type": "Individual/Sole Trader",
+      "gst_registered": false, "abn_active_from": "04 May 2015", "trading_years": 11.3,
+      "has_website": false,
+      "website_evidence": "web search returned only third-party listings (Yellow Pages, whereis, ZipLeaf); no owned domain",
+      "source": "hotfrog",
+      "source_url": "https://www.hotfrog.com.au/company/1072264711315456/precision-restumping-amp-underpinning/bundoora/foundations-and-piling",
+      "flags": ["owner_confirmed_sole_trader", "direct_mobile", "address_from_web_search"]
+    },
+    {
+      "business_name": "Banat Cabinet Makers",
+      "niche": "cabinet-makers", "niche_label": "Custom joinery & cabinetmaking", "ticket_value": 25000,
+      "address": "69 Golf Links Dr, Mill Park (listed 11 Charnfield Crt, Thomastown)", "suburb": "Mill Park", "postcode": "3082",
+      "phone_raw": "03 9464 2883",
+      "owner_phone": "+61402609220",
+      "owner_name": "Cirka family", "owner_confidence": "inferred",
+      "owner_source": "ABN Lookup 58446493513 (entity: THE CIRKA FAMILY TRUST, Discretionary Trading Trust)",
+      "abn": "58446493513", "entity_type": "Discretionary Trading Trust",
+      "gst_registered": true, "abn_active_from": "21 Apr 2000", "trading_years": 26.3,
+      "has_website": false,
+      "website_evidence": "web search returned Yelp, polytec supporter page and directory aggregators only; no owned domain",
+      "source": "hotfrog",
+      "source_url": "https://www.hotfrog.com.au/company/1072282810339328/banat-cabinet-makers/thomastown/furniture",
+      "flags": ["owner_via_family_trust", "gst_registered", "26_years_trading", "mobile_from_web_search"]
+    },
+    {
+      "business_name": "Supa Reblocking & Underpinning (VIC) Pty Ltd",
+      "niche": "underpinning", "niche_label": "Underpinning & restumping", "ticket_value": 35000,
+      "address": "13 Sardoot St, Reservoir", "suburb": "Reservoir", "postcode": "3073",
+      "phone_raw": "03 9383 7807",
+      "owner_name": null, "owner_confidence": "none",
+      "owner_source": "company - directors require paid ASIC extract",
+      "abn": "61626773644", "entity_type": "Australian Private Company",
+      "gst_registered": true, "abn_active_from": "13 Jun 2018", "trading_years": 8.2,
+      "has_website": false,
+      "social_only": "https://www.facebook.com/p/Supa-Reblocking-Underpinning-Vic-Pty-Ltd-100063812473289/",
+      "website_evidence": "web search returned Facebook page (27 likes), Yelp, whereis, Yellow Pages; no owned domain",
+      "source": "hotfrog",
+      "source_url": "https://www.hotfrog.com.au/company/1072261119471616/supa-reblocking-amp-underpinning/moreland/foundations-and-piling",
+      "flags": ["company_owner_needs_asic", "social_only", "gst_registered", "prior_entity_abn_116786326_has_asic_notice"]
+    },
+    {
+      "business_name": "A A Ibrahim Cabinet Makers",
+      "niche": "cabinet-makers", "niche_label": "Custom joinery & cabinetmaking", "ticket_value": 25000,
+      "address": "32 Cromwell St, Collingwood", "suburb": "Collingwood", "postcode": "3066",
+      "phone_raw": "03 9419 0099",
+      "owner_name": "(likely) Ibrahim family", "owner_confidence": "inferred",
+      "owner_source": "inferred from trading name; no matching ABN found under this trading name",
+      "abn": null, "entity_type": null,
+      "gst_registered": false, "abn_active_from": null, "trading_years": null,
+      "has_website": false,
+      "website_evidence": "web search returned Yelp (updated Jul 2026), SJN and australianplanet listings only; no owned domain",
+      "source": "hotfrog",
+      "source_url": "https://www.hotfrog.com.au/company/1072301186387968/a-a-ibrahim-cabinet-makers/collingwood/furniture",
+      "flags": ["no_abn_match", "TIER2_verify_by_phone", "recent_yelp_activity_2026"]
+    },
+    {
+      "business_name": "I.E. Reblocking & Underpinning",
+      "niche": "underpinning", "niche_label": "Underpinning & restumping", "ticket_value": 35000,
+      "address": "Pascoe Vale", "suburb": "Pascoe Vale", "postcode": "3044",
+      "phone_raw": "03 9388 0888",
+      "owner_name": null, "owner_confidence": "none",
+      "owner_source": null,
+      "abn": null, "entity_type": null,
+      "gst_registered": false, "abn_active_from": null, "trading_years": null,
+      "has_website": false,
+      "website_evidence": "web search returned only its own Hotfrog listing; no owned domain and near-zero web footprint",
+      "source": "hotfrog",
+      "source_url": "https://www.hotfrog.com.au/company/1072271607730176/i-e-reblocking-amp-underpinning/pascoe-vale/foundations-and-piling",
+      "flags": ["no_abn_match", "TIER2_verify_by_phone", "minimal_web_footprint"]
+    }
+  ],
+  "disqualified_has_website": [
+    {"business_name": "Saluni Metal Roofing", "owner_name": "Hutch David Saluni", "abn": "62009085899", "website": "https://salunimetalroofing.com/", "note": "sole trader, GST from Apr 2024 - looked ideal until verification found a full site"},
+    {"business_name": "Seven Roofing", "owner_name": "Boburkhon Tursunov (sole trader 3163)", "abn": "24662613299", "website": "https://sevenroofing.com.au/", "note": "two entities share the name; the Pty Ltd (3055) has the site"},
+    {"business_name": "koncept Concreting", "website": "http://www.concreting.koncept.net.au/", "note": "website hidden on Hotfrog search page, visible on detail page"}
+  ],
+  "dropped_no_active_abn": [
+    "F & R Spiteri Concreting", "Donisi Concreting", "Ascot Excavations",
+    "Westgate Reblocking & Underpinning (only WA match)", "Tiama Concreting",
+    "Metropolitan Landscaping (zero ABN matches)"
+  ],
+  "filtered_lead_gen_shells": [
+    {"phones": "0466 344 447", "listings": ["Bathroom Renovations Kew", "Bathroom Renovations Brighton", "Bathroom Renovations Camberwell"]},
+    {"phones": "0413 060 254", "listings": ["Underpinning Melbourne", "Total Underpinning", "Underpinning Melbourne Group"]},
+    {"phones": "1300 768 533", "listings": ["Deep Underpinning", "Complete Underpinning"]},
+    {"phones": "0406 985 226", "listings": ["concreting melbourne", "Concreting Melbourne"]},
+    {"phones": "0440 138 658", "listings": ["Bathroom Renovations Yarraville (duplicate listing)"]}
+  ]
+}

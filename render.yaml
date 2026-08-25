@@ -1,0 +1,14 @@
+# Run the scavenger on a schedule via Render Cron Jobs.
+# Set FIRECRAWL_API_KEY in the Render dashboard (never commit it).
+services:
+  - type: cron
+    name: melbourne-lead-scavenger
+    runtime: python
+    schedule: "0 19 * * 1"          # Mondays 06:00 Melbourne (19:00 UTC Sun/Mon)
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m scavenger.cli --limit 80 --verbose
+    envVars:
+      - key: FIRECRAWL_API_KEY
+        sync: false
+      - key: SCAVENGER_CACHE
+        value: /tmp/scavenger-cache
