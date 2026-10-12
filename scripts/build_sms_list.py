@@ -43,11 +43,38 @@ def first_name(row: dict) -> str | None:
     return None
 
 
+# What the site would put in front of a customer, keyed on words in the category.
+SHOWCASE = [
+    (("dry clean", "jewel", "shoe", "frame"), "what you offer, your hours and directions"),
+    (("cafe", "food", "espresso", "bar", "lounge", "thai", "rolls", "eggs", "mart", "kitchen"),
+     "your menu, opening hours and directions"),
+    (("lawn", "garden", "mowing", "clean", "handyman", "restump", "underpin", "electric",
+      "panel", "mechanic", "joinery", "cabinet", "doors"), "photos of your work and a quote request form"),
+    (("dog", "groom", "nail", "beauty", "hair", "salon"), "your services, prices and online bookings"),
+]
+DEFAULT_SHOWCASE = "what you do, your hours and a click-to-call button"
+
+
+def showcase(row: dict) -> str:
+    text = f"{row.get('category', '')} {row['name']}".lower()
+    for keys, phrase in SHOWCASE:
+        if any(k in text for k in keys):
+            return phrase
+    return DEFAULT_SHOWCASE
+
+
 def opener(row: dict, sender: str) -> str:
     hi = f"Hi {first_name(row)}" if first_name(row) else "Hi"
-    return (f"{hi}, it's {sender}. I noticed {row['name']} doesn't have a website, "
-            f"so people searching for you online find nothing to look at. I build "
-            f"simple sites for local businesses - happy to send a free mock-up? "
+    return (f"{hi}, it's {sender}. I noticed {row['name']} doesn't have a website. "
+            f"We build websites for local businesses - yours could show {showcase(row)}. "
+            f"Happy to mock one up free, no obligation. Keen to see it? "
+            f"Reply STOP to opt out.")
+
+
+def follow_up(row: dict, sender: str) -> str:
+    hi = f"Hi {first_name(row)}" if first_name(row) else "Hi"
+    return (f"{hi}, {sender} again - just following up on the free website mock-up "
+            f"for {row['name']}. Happy to send it over, no strings attached. "
             f"Reply STOP to opt out.")
 
 
@@ -70,6 +97,10 @@ def load() -> list[dict]:
     return out
 
 
+EXAMPLE = {"name": "Peninsula Dog Grooming", "category": "Dog grooming",
+           "owner_confidence": "confirmed", "owner_name": "Donna Kariofilis"}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--sender", default="[your name, business]")
@@ -85,12 +116,13 @@ def main() -> int:
     stamp = dt.date.today().isoformat()
     csv_path = OUT / f"sms-list-{stamp}.csv"
     cols = ["score", "name", "mobile", "owner_name", "owner_confidence", "category",
-            "suburb", "abn", "trading_years", "socials", "message"]
+            "suburb", "abn", "trading_years", "socials", "message", "follow_up"]
     with csv_path.open("w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         w.writeheader()
         for l in leads:
-            w.writerow({**l, "message": opener(l, args.sender)})
+            w.writerow({**l, "message": opener(l, args.sender),
+                        "follow_up": follow_up(l, args.sender)})
 
     md_path = OUT / f"sms-list-{stamp}.md"
     lines = [
@@ -108,8 +140,21 @@ def main() -> int:
                      f"{l['category']} | {l['suburb'] or '—'} |")
     lines += [
         "", "## Message", "",
-        "Personalised per lead in the CSV `message` column. Base text:", "",
-        f"> {opener({'name': '<Business>', 'owner_confidence': 'none', 'owner_name': ''}, args.sender)}",
+        "Personalised per lead in the CSV `message` column (first name where the "
+        "owner is confirmed; the middle line changes with the type of business). Example:", "",
+        f"> {opener(EXAMPLE, args.sender)}",
+        "", "## Follow-up (3-4 days later, once only, if no reply)", "",
+        f"> {follow_up(EXAMPLE, args.sender)}",
+        "", "## When they reply", "",
+        "- **\"Yes / sure / send it\"** — \"Great! What's the best email to send it to? "
+        "I'll have it to you within 48 hours.\" Then build the mock-up from their "
+        "Facebook/Instagram photos and directory listing.",
+        "- **\"How much?\"** — \"Depends what you need, but most local business sites "
+        "are a one-off build plus a small monthly fee for hosting and updates. Let me "
+        "send the mock-up first so you can see if it's worth it.\"",
+        "- **\"Not interested\"** — \"No worries at all, thanks for letting me know. "
+        "All the best with the business.\" Don't message again.",
+        "- **STOP** — remove them from the list straight away.",
         "", "## Before sending", "",
         "- Commercial SMS falls under the **Spam Act 2003**: identify yourself and "
         "keep the opt-out; honour STOP within 5 business days.",
